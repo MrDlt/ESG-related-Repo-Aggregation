@@ -1,7 +1,7 @@
 # ESG-related-Repo-Aggregation
 Some Repo about ESG on Github I interested in
 
-## On Hugging Face
+## Models On Hugging Face
 
 https://huggingface.co/models?search=esg
 
