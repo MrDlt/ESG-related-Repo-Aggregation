@@ -1,4 +1,9 @@
 # ESG-related-Repo-Aggregation
+
+What is ESG?
+
+https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance
+
 List some repo about ESG on Github I'm interested in
 
 ## Models On Hugging Face
