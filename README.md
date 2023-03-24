@@ -48,6 +48,7 @@ https://huggingface.co/models?search=esg
 
 
 ## Finbert
+
 https://finbert.ai
 
 https://github.com/ProsusAI/finBERT
@@ -58,32 +59,47 @@ https://huggingface.co/spaces/PKaushik/esg
 
 
 ## excellent web UI
+
 https://github.com/putridar/esg-dashboard
+
 https://developers.refinitiv.com/en/article-catalog/article/esg-disclosures
+
 https://github.com/nico-corthorn/esg-portfolio
+
 https://github.com/LucS12/esg-investing-app
+
 https://github.com/gcaa-org-tw/thaubing-esg
 
 
 ## include ESG lexicon？
+
 https://github.com/GoodDataHub/taxonomy4good
+
 https://github.com/KoushikGrandhi/ESG_ScoreGenerator_NLP
+
 https://sraf.nd.edu/loughranmcdonald-master-dictionary/
 
 
 ## ESG crawl
 https://github.com/shweta-29/Companies_ESG_Scraper
+
 https://github.com/austinjhunt/msci_esg
+
 https://github.com/Refinitiv-API-Samples/Example.RDP.Python.ESGGraphPlot
+
 https://curt-beck1254.medium.com/scrapping-financial-esg-data-with-python-99d171a12c51
+
 https://github.com/mahantymanoj/ESG-environment-social-governance-Automation-
 
 
 ## data extraction
 https://github.com/preetam-kotteda/ESG-data-extraction
+
 https://github.com/Refinitiv-API-Samples/Article.EikonAPI.RDPLibrary.Python.PortfolioExposure
 
 
 ## Sentiment Analysis
+
 https://github.com/polly63/NLP_Sentiment_Analysis
+
 https://github.com/gissellek/ESGsentimentmining
