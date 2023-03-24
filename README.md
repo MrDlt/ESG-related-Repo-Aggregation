@@ -1,6 +1,12 @@
 # ESG-related-Repo-Aggregation
 Some Repo about ESG on Github I interested in
 
+## On Hugging Face
+
+https://huggingface.co/models?search=esg
+
+## AI
+
 https://github.com/mukut03/ESG-BERT
 
 https://github.com/hannahawalsh/ESG_AI
@@ -45,11 +51,6 @@ https://github.com/ESGTeamJ/esg_competition
 
 https://github.com/KoushikGrandhi/ESG_ScoreGenerator_NLP
 
-https://sraf.nd.edu/loughranmcdonald-master-dictionary/
-
-https://huggingface.co/models?search=esg
-
-
 
 ## Finbert
 
@@ -62,7 +63,7 @@ https://huggingface.co/yiyanghkust/finbert-esg
 https://huggingface.co/spaces/PKaushik/esg
 
 
-## excellent web UI
+## Excellent web UI
 
 https://github.com/putridar/esg-dashboard
 
@@ -77,6 +78,7 @@ https://github.com/gcaa-org-tw/thaubing-esg
 
 
 ## ESG Crawl
+
 https://github.com/shweta-29/Companies_ESG_Scraper
 
 https://github.com/austinjhunt/msci_esg
@@ -89,6 +91,7 @@ https://github.com/mahantymanoj/ESG-environment-social-governance-Automation-
 
 
 ## Data Extraction
+
 https://github.com/preetam-kotteda/ESG-data-extraction
 
 https://github.com/Refinitiv-API-Samples/Article.EikonAPI.RDPLibrary.Python.PortfolioExposure
