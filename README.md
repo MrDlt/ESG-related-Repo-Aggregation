@@ -43,6 +43,10 @@ https://github.com/SingkiWong/ESG_Fintect
 
 https://github.com/ESGTeamJ/esg_competition
 
+https://github.com/KoushikGrandhi/ESG_ScoreGenerator_NLP
+
+https://sraf.nd.edu/loughranmcdonald-master-dictionary/
+
 https://huggingface.co/models?search=esg
 
 
@@ -71,16 +75,8 @@ https://github.com/LucS12/esg-investing-app
 https://github.com/gcaa-org-tw/thaubing-esg
 
 
-## include ESG lexicon？
 
-https://github.com/GoodDataHub/taxonomy4good
-
-https://github.com/KoushikGrandhi/ESG_ScoreGenerator_NLP
-
-https://sraf.nd.edu/loughranmcdonald-master-dictionary/
-
-
-## ESG crawl
+## ESG Crawl
 https://github.com/shweta-29/Companies_ESG_Scraper
 
 https://github.com/austinjhunt/msci_esg
@@ -92,7 +88,7 @@ https://curt-beck1254.medium.com/scrapping-financial-esg-data-with-python-99d171
 https://github.com/mahantymanoj/ESG-environment-social-governance-Automation-
 
 
-## data extraction
+## Data Extraction
 https://github.com/preetam-kotteda/ESG-data-extraction
 
 https://github.com/Refinitiv-API-Samples/Article.EikonAPI.RDPLibrary.Python.PortfolioExposure
