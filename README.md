@@ -1,5 +1,5 @@
 # ESG-related-Repo-Aggregation
-Some Repo about ESG on Github I'm interested in
+List some repo about ESG on Github I'm interested in
 
 ## Models On Hugging Face
 
