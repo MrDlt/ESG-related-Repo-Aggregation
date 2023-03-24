@@ -11,7 +11,7 @@ https://github.com/roydonauyr/Goldman-Sach-ESG-Comp
 
 https://github.com/ESGTeamJ/esg_competition
 
-## AI
+## AI-related
 
 https://github.com/mukut03/ESG-BERT
 
@@ -43,10 +43,6 @@ https://github.com/faizusmani/ESG-value-extraction-and-Topic-Modelling
 
 https://github.com/makesk/Algorithmic-evaluation-of-the-ESG-contribution-in-company-reports-a-semantic-similarity-score-based
 
-https://github.com/FanJia19/Elasticsearch_NLP_Company_reports_analysis
-
-https://github.com/hasmokan/ESGreport-system
-
 https://github.com/maheshsk78/ESG_TextMining
 
 https://github.com/SingkiWong/ESG_Fintect
@@ -77,7 +73,7 @@ https://github.com/LucS12/esg-investing-app
 
 https://github.com/gcaa-org-tw/thaubing-esg
 
-
+https://github.com/hasmokan/ESGreport-system
 
 ## ESG Crawl
 
@@ -104,3 +100,7 @@ https://github.com/Refinitiv-API-Samples/Article.EikonAPI.RDPLibrary.Python.Port
 https://github.com/polly63/NLP_Sentiment_Analysis
 
 https://github.com/gissellek/ESGsentimentmining
+
+## Other Topic
+
+https://github.com/FanJia19/Elasticsearch_NLP_Company_reports_analysis
