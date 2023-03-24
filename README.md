@@ -5,6 +5,12 @@ Some Repo about ESG on Github I'm interested in
 
 https://huggingface.co/models?search=esg
 
+## ESG-related competition
+
+https://github.com/roydonauyr/Goldman-Sach-ESG-Comp
+
+https://github.com/ESGTeamJ/esg_competition
+
 ## AI
 
 https://github.com/mukut03/ESG-BERT
@@ -29,8 +35,6 @@ https://github.com/diningeachox/ESG_BERT
 
 https://github.com/smehra3/ESG_NLP
 
-https://github.com/roydonauyr/Goldman-Sach-ESG-Comp
-
 https://github.com/March-of-the-Ants/ESG-Rating-System
 
 https://github.com/xinging-birds/ESGBoost
@@ -46,8 +50,6 @@ https://github.com/hasmokan/ESGreport-system
 https://github.com/maheshsk78/ESG_TextMining
 
 https://github.com/SingkiWong/ESG_Fintect
-
-https://github.com/ESGTeamJ/esg_competition
 
 https://github.com/KoushikGrandhi/ESG_ScoreGenerator_NLP
 
